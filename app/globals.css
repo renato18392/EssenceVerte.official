@@ -5,7 +5,6 @@
 
 :root {
   /* Updated color scheme for Essence Verte - green, gold and white */
-  Changed background to pure white instead of beige with texture</CHANGE>
   --background: #ffffff;
   --foreground: #0d472d;
   --card: #ffffff;
@@ -40,7 +39,6 @@
   --sidebar-border: #e0d9d0;
   --sidebar-ring: #0d472d;
 }
-
 .dark {
   --background: #0d1f18;
   --foreground: #f5f1ed;
